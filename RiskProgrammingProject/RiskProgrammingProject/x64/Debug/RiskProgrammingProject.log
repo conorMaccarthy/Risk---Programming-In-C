@@ -1,0 +1,3 @@
+﻿  RiskProgrammingProject.cpp
+C:\Users\cmacc\source\repos\Risk---Programming-In-C\RiskProgrammingProject\RiskProgrammingProject\RiskProgrammingProject.cpp(16,58): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  RiskProgrammingProject.vcxproj -> C:\Users\cmacc\source\repos\Risk---Programming-In-C\RiskProgrammingProject\x64\Debug\RiskProgrammingProject.exe
